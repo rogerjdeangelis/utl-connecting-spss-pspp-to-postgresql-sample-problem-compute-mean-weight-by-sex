@@ -4,6 +4,10 @@
 
 Connecting spss pspp to postgresql sample problem compute mean weight by sex
 
+github
+https://tinyurl.com/yrzh99mt
+https://github.com/rogerjdeangelis/utl-connecting-spss-pspp-to-postgresql-sample-problem-compute-mean-weight-by-sex
+
 PROBLEM (USING PSPP and POSTGRESQL)
 
  COMPUTE AVERAGE AGE AND WEIGHT BY SEX
